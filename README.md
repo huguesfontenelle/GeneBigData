@@ -23,3 +23,7 @@ and more...
 There is also a site where you can download R tutorials that will run within your local R environment. Take a look at Swirl http://swirlstats.com/
 
 The Statistics with R from Duke University is a new Coursera offering and includes both Bayesian and frequentist statistics instruction. But the coverage of R is not as gentile as that given by John Hopkins (for instance, the first R assignment throws you directly into Knitr without so much as brief overview of how Knitr works). I'm taking it now mostly for the coverage of the Bayesian approach.
+
+DataCamp https://www.datacamp.com/ has some R offerings https://www.datacamp.com/
+
+PluralSight https://www.pluralsight.com/ has some R classes (and offers a 10 day free trial as well)
