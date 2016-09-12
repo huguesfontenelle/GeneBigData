@@ -1,5 +1,7 @@
 # GeneBigData
 
+__*Note: this repository is setup for the final beta test of the course. I plan to make it private prior to official course release date*__
+
 This is a collection of assignment source file for the Coursera class __Big Data, Genes, and Medicine__.
 
 These files were placed here during the 2nd week of beta testing (week of September 5, 2016) due to some testers complaining about corrupted files. I assume that the testers starting the first week had this problem (I started in week 2).
